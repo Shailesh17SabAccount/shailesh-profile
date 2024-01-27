@@ -44,7 +44,7 @@ function Success(Success) {
     success_none.style.display = "block";
     setInterval(()=>{
       moredata()
-    }, 3000);
+    }, 6000);
   }
 }
 
